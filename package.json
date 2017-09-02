@@ -1,0 +1,18 @@
+{
+  "name": "history-router",
+  "version": "1.0.0",
+  "description": "A front-end router base history API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "history",
+    "router"
+  ],
+  "author": "xwj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.15.4"
+  }
+}
